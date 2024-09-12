@@ -1,0 +1,8 @@
+#make directory
+mkdir <directoryname>
+
+#Rename or delete the existing directory if you don't need it
+mv <directoryname>
+
+#if you want to remove it completely
+rm -rf <directoyname>
