@@ -1,4 +1,16 @@
 
+```bash
+git add --all
+
+git status
+
+git commit -m "<commit message>"
+
+git push origin main
+
+```
+
+
 make directory
 
 ```bash
